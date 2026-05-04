@@ -45,6 +45,7 @@ def fetch_graph(mid_lat, mid_lon, radius):
     [out:json];
     way
     [highway]
+    [highway !~ "motorway|motorway_link|trunk"]
     
     
     (around:{radius},{mid_lat}, {mid_lon});
