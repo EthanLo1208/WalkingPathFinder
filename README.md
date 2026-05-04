@@ -42,5 +42,3 @@ An `index.html` file will be generated. Open it in your browser to see the route
 - Requires an internet connection to fetch map data
 - Dense urban areas may take longer to query
 
-## Reflection
-Through this project, I was able to 
