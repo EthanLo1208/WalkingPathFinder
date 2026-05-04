@@ -1,0 +1,2 @@
+requests==2.32.4
+folium==0.20.0
